@@ -7,6 +7,6 @@ He doesn't work specifically in the programming area, but I like to return proje
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaioluanro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaioluanro&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioluanro&langs_count=9&theme=dark)]<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioluanro&langs_count=9&theme=dark)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=kaioluanro&icon=3&color=0)](https://visitcount.itsvg.in)
